@@ -1,4 +1,4 @@
-# Projeto Tabuada 📝
+# Projeto Tabuada 
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 
@@ -8,7 +8,7 @@ Este projeto é um gerador de tabuada interativo, desenvolvido como parte dos ex
 ### Deploy
 
 Você pode visualizar e testar o projeto em tempo real através do link abaixo:
-
+**[Clique aqui para acessar a aplicação](https://projeto-tabuada-kohl.vercel.app/)**
 
 ---
 
